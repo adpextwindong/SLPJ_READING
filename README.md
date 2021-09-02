@@ -2,7 +2,7 @@
 
 ## CH1. Introduction
 
-The functional programming languages predating 1987:
+The functional programming languages mentioned in the book predating 1987:
 
 - SASL [Turner, 1976](turner83_saslmanual.pdf)
 
