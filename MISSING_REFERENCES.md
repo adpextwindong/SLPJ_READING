@@ -95,3 +95,9 @@ Denning, P.J. 1972. On modeling program behavior. In Proceedings of the Spring J
 Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Research in Progress, Dept Comp.Sci., Yale University. November.
 
 Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
+
+## Apppendix
+
+### Appendix References
+
+Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.

@@ -1,5 +1,8 @@
 # [THE IMPLEMENTATION OF FUNCTIONAL PROGRAMMING LANGUAGES - Simon L. Peyton Jones](slpj-book-1987.pdf)
 
+158 References Completed
+[29 Missing References.](MISSING_REFERENCES.md)
+
 ## CH1. Introduction
 
 The functional programming languages mentioned in the book predating 1987:
@@ -475,3 +478,23 @@ Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Resear
 [Smith, A.J. 1982. Cache memories. ACM Computing Surveys. Vol. 14, no. 3, pp.473-530.](smith82_CacheMemories.pdf)
 
 Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
+
+## Appendix
+
+### Appendix References
+
+[Gordon, M.J., Milner, A.J., and Wadsworth, C.P. 1979. Edinburgh LCF. Springer Lecture Notes in Computer Science. Vol. 78.](Gordon79_LectureNotesInComputerScience.pdf)
+
+[Landin, P.J. 1966. The next 700 programming languages. Communications of the ACM.Vol.9, no. 3.](Landin66.pdf)
+
+[Milner, A.J. 1978. A theory of type polymorphism in programming. Journal of Computer and System Sciences. Vol. 17.](Milner78_ATheoryOfTypePolymorphismInProgramming.pdf)
+
+Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.
+
+[Thompson, S.J. 1986. Laws in Miranda. Proceedings of the 4th ACM International Conference on LISPand Functional Programming, Boston, Mass. August.](thompson86_LawsInMiranda.pdf)
+
+[Turner, D.A. 1976. SASL language manual. StAndrews University Technical Report. December.](turner83_saslmanual.pdf)
+
+[Turner, D.A. 1982. Recursion equations as a programming language. In Functional Programming and its Applications, Darlington et al. (editors). Cambridge University Press.](turner82_RecursionEquations.pdf)
+
+[Turner, D.A. 1985. Miranda: a non-strict functional language with polymorphic types. In Proceedings of the IFIP International Conference on Functional Programming Languages and Computer Architecture, Nancy. Springer Lecture Notes in ComputerScience. LNCS 201.](turner85_Miranda.pdf)
