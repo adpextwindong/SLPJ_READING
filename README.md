@@ -450,28 +450,28 @@ Denning, P.J. 1972. On modeling program behavior. In Proceedings of the Spring J
 
 [Goldberg, B., and Hudak,P. 1985. Serial combinators— optimal grains of parallelism. In Functional Programming Languages and Computer Architecture. pp. 382-99. LNCS 201. Springer Verlag.](Hudak85_SerialCombinators.pdf)
 
-Hankin, C.L., Burn, G.L., and Peyton Jones, S.L. 1986. An approach to safe parallel combinator reduction. European Symposium on Programming. Robinet, B., and Wilhelm,R.(editors), pp. 99-110. LNCS 213. Springer Verlag. March.
+[Hankin, C.L., Burn, G.L., and Peyton Jones, S.L. 1986. An approach to safe parallel combinator reduction. European Symposium on Programming. Robinet, B., and Wilhelm,R.(editors), pp. 99-110. LNCS 213. Springer Verlag. March.](Hankin86_A_Safe_Approach_to_Parallel_Combinator_Reduction_E.pdf)
 
-Hudak,P. 1984. Distributed Applicative Processing Systems. YALEU/DCS/TR-317. Dept Comp.Sci., Yale. May.
+[Hudak,P. 1984. Distributed Applicative Processing Systems. YALEU/DCS/TR-317. Dept Comp.Sci., Yale. May.](Hudak84_DistributedApplicativeProcessingSystems.pdf)
 
 Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Research in Progress, Dept Comp.Sci., Yale University. November.
 
-Hudak,P., and Goldberg, B. 1985a. Distributed execution of functional programs using serial combinators. IEEE Transactions on Computers. Vol. C-34, no. 10.
+[Hudak,P., and Goldberg, B. 1985a. Distributed execution of functional programs using serial combinators. IEEE Transactions on Computers. Vol. C-34, no. 10.](hudak1985_DistributedExecutionOfFunctionalProgramsUsingSerialCombinators.pdf)
 
-Hudak,P., and Goldberg, B. 1985b. Serial combinators. In Conference on Functional Programming and Computer Architecture, Nancy. Jouannaud (editor). LNCS 201. Springer Verlag.
+[Hudak,P., and Goldberg, B. 1985b. Serial combinators. In Conference on Functional Programming and Computer Architecture, Nancy. Jouannaud (editor). LNCS 201. Springer Verlag.](Hudak85_SerialCombinators.pdf)
 
-Hudak, P., and Smith, L. 1985. Para-functional Programming — a Paradigm for Programming MultiprocessorSystems. YALEU/DCS/RR-390. Dept Comp.Sci., Yale University. June. Intel 1985. iPSC User’s Guide. Intel Corporation, Order Number 175455-003. October.
+[Hudak, P., and Smith, L. 1985. Para-functional Programming — a Paradigm for Programming MultiprocessorSystems. YALEU/DCS/RR-390. Dept Comp.Sci., Yale University. June. Intel 1985. iPSC User’s Guide. Intel Corporation, Order Number 175455-003. October.](hudak86_ParaFunctionalPrograming.pdf)
 
-Keller, R.M. 1985. Rediflow Architecture Prospectus, UUCS-85-105. Dept Comp. Sci., University of Utah. August.
+[Keller, R.M. 1985. Rediflow Architecture Prospectus, UUCS-85-105. Dept Comp. Sci., University of Utah. August.](Keller85_Rediflow_architecture_prospectus.pdf)
 
-Keller, R.M., and Lin, F.C.H. 1984. Simulated performance of a reduction based multiprocessor. IEEE Computer. Vol. 17, no. 7, pp. 70-82.
+[Keller, R.M., and Lin, F.C.H. 1984. Simulated performance of a reduction based multiprocessor. IEEE Computer. Vol. 17, no. 7, pp. 70-82.](Keller84_SimulatedPerformanceOfAReductionBasedMultiprocessingSystem.pdf)
 
-Keller, R.M., Lindstrom, G., and Patil, S. 1979. A loosely-coupled applicative multi-processing system. In AFIPS Conference Proceedings, pp. 613-22, June.
+[Keller, R.M., Lindstrom, G., and Patil, S. 1979. A loosely-coupled applicative multi-processing system. In AFIPS Conference Proceedings, pp. 613-22, June.](Keller85_DistributedComputationByGraphReduction.pdf)
 
-Peyton Jones, S.L. 1986. Using Futurebus in a fifth generation computer. Micro-processors and Microsystems. Vol. 10, no. 2.
+[Peyton Jones, S.L. 1986. Using Futurebus in a fifth generation computer. Micro-processors and Microsystems. Vol. 10, no. 2.](spj86_Futurebus.pdf)
 
-Peyton Jones, S.L., Clack, C.D., and Salkild, J. 1985. GRIP — a Parallel Graph Reduction Machine, Dept Comp.Sci., University College London. November.
+[Peyton Jones, S.L., Clack, C.D., and Salkild, J. 1985. GRIP — a Parallel Graph Reduction Machine, Dept Comp.Sci., University College London. November.](spj85_GRIP.pdf)
 
-Smith, A.J. 1982. Cache memories. ACM Computing Surveys. Vol. 14, no. 3, pp.473-530.
+[Smith, A.J. 1982. Cache memories. ACM Computing Surveys. Vol. 14, no. 3, pp.473-530.](smith82_CacheMemories.pdf)
 
 Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.

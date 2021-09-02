@@ -67,7 +67,7 @@ Lester, D. 1985. The correctness of a G-machine compiler. MSc dissertation, Prog
 
 ## CH19
 
-### References
+### CH19 References
 
 Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.
 
@@ -84,9 +84,14 @@ Laboratory, University of Kent, p. 36. March.](https://ethos.bl.uk/OrderDetails.
 
 ## CH24
 
-### References
+### CH24 References
 
 Clack, C.D., and Peyton Jones, S.L. 1985. Generating Parallelism from Strictness Analysis. Internal Note 1679, Dept Comp. Sci., University College London. February.
 
 Cripps, M.D., and Field, A.J. 1983, An Asynchronous Structure-independent Switching System with System-level Fault Tolerance. Dept Comp. Sci., Imperial College, London.
 
+Denning, P.J. 1972. On modeling program behavior. In Proceedings of the Spring Joint Computer Conference, 40, pp. 937-44. AFIPS Press.
+
+Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Research in Progress, Dept Comp.Sci., Yale University. November.
+
+Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
