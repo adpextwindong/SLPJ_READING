@@ -1,8 +1,8 @@
 # [THE IMPLEMENTATION OF FUNCTIONAL PROGRAMMING LANGUAGES - Simon L. Peyton Jones](slpj-book-1987.pdf)
 
 158 References Completed
-[27 Missing References.](MISSING_REFERENCES.md)
-2 PENDING SCANNING.
+[26 Missing References.](MISSING_REFERENCES.md)
+3 PENDING SCANNING.
 
 ## CH1. Introduction
 
@@ -36,7 +36,7 @@ Darlington, J. 1984. Functional programming. In Distributed Computing. Duce (Edi
 
 [Fairbairn, J. 1985. Design and implementation of a simple typed language based on the lambda calculus. PhD thesis, TechnicalReport 75. University of Cambridge. May.](Fairbairn75DesignAndImplementationOfASimpleTypedLanguageBasedOnTheLambdaCalculus.pdf)
 
-Glaser, H., Hankin, C., and Till, D. 1984. Principles of Functional Programming. Prentice-Hall.
+Glaser, H., Hankin, C., and Till, D. 1984. Principles of Functional Programming. Prentice-Hall. --TODO SCAN BOOK
 
 [Gordon, M.J., Milner, A.J., and Wadsworth, C.P. 1979. Edinburgh LCF. LNCS 78. Springer Verlag.](Gordon79_LectureNotesInComputerScience.pdf)
 
