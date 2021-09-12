@@ -1,7 +1,8 @@
 # [THE IMPLEMENTATION OF FUNCTIONAL PROGRAMMING LANGUAGES - Simon L. Peyton Jones](slpj-book-1987.pdf)
 
 158 References Completed
-[29 Missing References.](MISSING_REFERENCES.md)
+[27 Missing References.](MISSING_REFERENCES.md)
+2 PENDING SCANNING.
 
 ## CH1. Introduction
 
@@ -31,7 +32,7 @@ The functional programming languages mentioned in the book predating 1987:
 
 [Burstall, R.M., MacQueen, D.B., and Sanella, D.T. 1980. Hope: an experimental applicative language. CSR-62-80. Department of Computer Science, University of Edinburgh. May.](burstall80_Hope.pdf)
 
-Darlington, J. 1984. Functional programming. In Distributed Computing. Duce (Editor). Academic Press. --NOTE Cannot find this online at all
+Darlington, J. 1984. Functional programming. In Distributed Computing. Duce (Editor). Academic Press. --TODO SCAN pg.57 - pg.136
 
 [Fairbairn, J. 1985. Design and implementation of a simple typed language based on the lambda calculus. PhD thesis, TechnicalReport 75. University of Cambridge. May.](Fairbairn75DesignAndImplementationOfASimpleTypedLanguageBasedOnTheLambdaCalculus.pdf)
 
@@ -371,7 +372,7 @@ Lester, D. 1985. The correctness of a G-machine compiler. MSc dissertation, Prog
 
 ### CH19 References
 
-Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.
+Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag. --TODO SCAN BOOK
 
 [Landin, P.J. 1964. The mechanical evaluation of expressions. ComputerJournal. Vol. 6, pp. 308-20.](Landin64_TheMechanicalEvaluationOfExpressions.pdf)
 
