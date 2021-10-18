@@ -101,3 +101,10 @@ Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Para
 ### Appendix References
 
 Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.
+
+##
+
+Regarding "Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus. PhD thesis, Oxford."
+https://solo.bodleian.ox.ac.uk/permalink/f/n28kah/oxfaleph015127760
+https://solo.bodleian.ox.ac.uk/permalink/f/n28kah/oxfaleph020593222
+https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.476186
