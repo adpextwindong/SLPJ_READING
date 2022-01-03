@@ -90,8 +90,6 @@ Clack, C.D., and Peyton Jones, S.L. 1985. Generating Parallelism from Strictness
 
 Cripps, M.D., and Field, A.J. 1983, An Asynchronous Structure-independent Switching System with System-level Fault Tolerance. Dept Comp. Sci., Imperial College, London.
 
-Denning, P.J. 1972. On modeling program behavior. In Proceedings of the Spring Joint Computer Conference, 40, pp. 937-44. AFIPS Press.
-
 Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Research in Progress, Dept Comp.Sci., Yale University. November.
 
 Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.

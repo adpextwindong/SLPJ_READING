@@ -450,7 +450,7 @@ Cripps, M.D., and Field, A.J. 1983, An Asynchronous Structure-independent Switch
 
 [Darlington, J., and Reeve, M. 1981. ALICE—a multiprocessor reduction machine for the parallel evaluation of applicative languages. In Proceedings of the ACM Symposium on Functional Languages and Computer Architecture, Portsmouth. pp. 65~—76, October.](darlington81_ALICE_MultiprocessorReductionMachine.pdf)
 
-Denning, P.J. 1972. On modeling program behavior. In Proceedings of the Spring Joint Computer Conference, 40, pp. 937-44. AFIPS Press.
+[Denning, P.J. 1972. On modeling program behavior. In Proceedings of the Spring Joint Computer Conference, 40, pp. 937-44. AFIPS Press.](denning1971.pdf)
 
 [Goldberg, B., and Hudak,P. 1985. Serial combinators— optimal grains of parallelism. In Functional Programming Languages and Computer Architecture. pp. 382-99. LNCS 201. Springer Verlag.](Hudak85_SerialCombinators.pdf)
 
