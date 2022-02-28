@@ -160,8 +160,6 @@ Huet, G., and Levy, J.J. 1979. Computations in Non-ambiguous Linear Term Rewriti
 
 ## CH9
 
-[Damas-Hindley-Milner](http://dev.stephendiehl.com/fun/006_hindley_milner.html)
-
 ### CH9 References
 
 [Damas,L. 1985.Type Assignment in Programming Languages. CST-33-35. Department of Computer Science, University of Edinburgh. April.](Damas84_TypeAssignmentInProgrammingLanguages.pdf)
