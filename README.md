@@ -352,7 +352,7 @@ Elworthy, D. 1985. Implementing a Ponder cross compiler for the SKIM processor. 
 
 [Fairbairn, J. 1982. Ponder and its type system. Technical Report 31. Computer Lab., Cambridge. November.](Fairbairn82_PonderAndItsTypeSystem.pdf)
 
-[Fairbairn,J. 1985. Design and implementationofa simple typed language based on the lambda calculus. Technical Report 75. Computer Lab., Cambridge. May.](Fairbairn85DesignAndImplementationOfASimpleTypedLanguageBasedOnTheLambdaCalculus.pdf)
+[Fairbairn,J. 1985. Design and implementation of a simple typed language based on the lambda calculus. Technical Report 75. Computer Lab., Cambridge. May.](Fairbairn85DesignAndImplementationOfASimpleTypedLanguageBasedOnTheLambdaCalculus.pdf)
 
 [Fairbairn, J., and Wray, S.C. 1986. Code generation techniques for functional languages. In Proceedings of the ACM Conference on Lisp and Functional Programming, Boston, pp. 94-104, August.](fairbairn86_CodeGenerationTechniquesForFunctionalLanguages.pdf)
 
@@ -377,6 +377,8 @@ Lester, D. 1985. The correctness of a G-machine compiler. MSc dissertation, Prog
 ### CH19 References
 
 Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag. --TODO SCAN BOOK
+
+Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.
 
 [Landin, P.J. 1964. The mechanical evaluation of expressions. ComputerJournal. Vol. 6, pp. 308-20.](Landin64_TheMechanicalEvaluationOfExpressions.pdf)
 
