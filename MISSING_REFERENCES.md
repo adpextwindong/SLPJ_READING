@@ -39,6 +39,10 @@ Mago, G.A. 1980. A cellular computer architecture for functional programming. IE
 
 Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
 
+## CH13
+
+Klop, J.W. 1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.
+
 ## CH15
 
 Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.

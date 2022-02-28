@@ -1,7 +1,7 @@
 # [THE IMPLEMENTATION OF FUNCTIONAL PROGRAMMING LANGUAGES - Simon L. Peyton Jones](slpj-book-1987.pdf)
 
 158 References Completed
-[26 Missing References.](MISSING_REFERENCES.md)
+[27 Missing References.](MISSING_REFERENCES.md)
 3 PENDING SCANNING.
 
 ## CH1. Introduction
@@ -235,6 +235,8 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 [Johnsson, T. 1985. Lambdalifting: transforming programs to recursive equations. In Conference on Functional Programming Languages and Computer Architecture, Nancy. Jouannaud (editor). LNCS 201. Springer Verlag.](johnsson85_LambdaLiftingTransformingProgramsToRecursiveEquations.pdf)
 
 [Keller, R.M. 1985. Distributed graph reduction from first principles. Department of Computer Science, University of Utah.' Klop, J.W.1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.](Keller85_DistributedComputationByGraphReduction.pdf)
+
+Klop, J.W. 1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.
 
 [Landin, P.J. 1964. The mechanical evaluation of expressions. Computer Journal. Vol. 6, pp. 308-20.](Landin64.pdf)
 
