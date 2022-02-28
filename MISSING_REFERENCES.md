@@ -4,10 +4,9 @@ https://ethos.bl.uk/
 
 ## CH1 
 
-Darlington, J. 1984. Functional programming. In Distributed Computing. Duce (Editor). Academic Press. --NOTE Cannot find this online at all
+Darlington, J. 1984. Functional programming. In Distributed Computing. Duce (Editor). Academic Press. --TODO SCAN
 
-[ISBN-13: 978-0121673505
-ISBN-10: 0121673502](https://www.amazon.com/Distributed-Computing-Apic-Studies-Processing/dp/0121673502/)
+Glaser, H., Hankin, C., and Till, D. 1984. Principles of Functional Programming. Prentice-Hall. --TODO SCAN
 
 ## CH2
 
@@ -19,7 +18,7 @@ Welch,P. 1975. Some Notes on the Martin-Lof Proof of the Church Rosser Theorem a
 
 Burstall, R.M. 1977. Design considerations for a functional programming language. In Proceedings Infotech State of the Art Conference, Copenhagen, pp. 54-7.
 
-Turner, D.A., 1981.. Aspects of the implementation of programming languages. D.Phil. thesis, University of Oxford. February.
+[Turner, D.A., 1981.. Aspects of the implementation of programming languages. D.Phil. thesis, University of Oxford. February.](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.290880)
 
 Wadler, P. 1985. A Splitting Headache— and Its Cure. Programming Research Group, Oxford. January.
 
@@ -31,17 +30,13 @@ Huet, G., and Levy, J.J. 1979. Computations in Non-ambiguous Linear Term Rewriti
 
 Arvind, Kathail, V., and Pingali, K. 1984. Sharing of Computation in Functional Language Implementations. Laboratory for Computer Science, MIT.July.
 
-Watson, P., Watson, I., and Woods, V. 1986. A Model of Computation for the Parallel Evaluation of Functional Languages. PMP/MU/PW/000001. Department of ComputerScience, University of Manchester. February.
+Watson, P., Watson, I., and Woods, V. 1986. A Model of Computation for the Parallel Evaluation of Functional Languages. PMP/MU/PW/000001. Department of Computer Science, University of Manchester. February.
 
 ## CH12
 
-Mago, G.A. 1980. A cellular computer architecture for functional programming. IEEE Computer Society COMPCON,pp.179-87.
+[Mago, G.A. 1980. A cellular computer architecture for functional programming. IEEE Computer Society COMPCON,pp.179-87.](10.1109/TC.1980.1675646)
 
 Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
-
-## CH13
-
-Klop, J.W. 1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.
 
 ## CH15
 
@@ -73,9 +68,7 @@ Lester, D. 1985. The correctness of a G-machine compiler. MSc dissertation, Prog
 
 ### CH19 References
 
-Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.
-
---TODO SCAN THIS ONCE IT ARRIVES STATESIDE
+Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag. --TODO SCAN
 
 ## CH23
 
@@ -83,8 +76,6 @@ Hughes, R.J.M. 1984. Parallel Functional Programs use Less Space. Programming Re
 
 [Meira, S.R.L. 1985. On the efficiency of applicative algorithms. PhD thesis, Computer
 Laboratory, University of Kent, p. 36. March.](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.353183)
-
---TODO figure out the scanning fee
 
 ## CH24
 
@@ -96,13 +87,7 @@ Cripps, M.D., and Field, A.J. 1983, An Asynchronous Structure-independent Switch
 
 Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Research in Progress, Dept Comp.Sci., Yale University. November.
 
-Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
-
-## Apppendix
-
-### Appendix References
-
-Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.
+Tighe, S. 1985. A Study of the Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
 
 ##
 
