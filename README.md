@@ -472,6 +472,8 @@ Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Resear
 
 [Hudak, P., and Smith, L. 1985. Para-functional Programming — a Paradigm for Programming MultiprocessorSystems. YALEU/DCS/RR-390. Dept Comp.Sci., Yale University. June. Intel 1985. iPSC User’s Guide. Intel Corporation, Order Number 175455-003. October.](hudak86_ParaFunctionalPrograming.pdf)
 
+Intel 1985. iPSC User's Guide. Intel Corporation, Order Number 175455-003. October.
+
 [Keller, R.M. 1985. Rediflow Architecture Prospectus, UUCS-85-105. Dept Comp. Sci., University of Utah. August.](Keller85_Rediflow_architecture_prospectus.pdf)
 
 [Keller, R.M., and Lin, F.C.H. 1984. Simulated performance of a reduction based multiprocessor. IEEE Computer. Vol. 17, no. 7, pp. 70-82.](Keller84_SimulatedPerformanceOfAReductionBasedMultiprocessingSystem.pdf)
@@ -484,7 +486,7 @@ Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Resear
 
 [Smith, A.J. 1982. Cache memories. ACM Computing Surveys. Vol. 14, no. 3, pp.473-530.](smith82_CacheMemories.pdf)
 
-Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
+Tighe, S. 1985. A Study of the Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
 
 ## Appendix
 
