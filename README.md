@@ -378,7 +378,7 @@ Lester, D. 1985. The correctness of a G-machine compiler. MSc dissertation, Prog
 
 Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag. --TODO SCAN BOOK
 
-Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.
+[Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.](Bauer1976_CompilerConstruction.djvu)
 
 [Landin, P.J. 1964. The mechanical evaluation of expressions. ComputerJournal. Vol. 6, pp. 308-20.](Landin64_TheMechanicalEvaluationOfExpressions.pdf)
 
