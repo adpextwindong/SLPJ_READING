@@ -270,6 +270,8 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 
 [Curry, H.B., and Feys, R. 1958. Combinatory Logic, Vol. 1. North-Holland. Hughes, R.J.M. 1984. The design and implementation of programming languages. PhD thesis, PRG-40. Programming Research Group, Oxford.](Curry58_CombinatoryLogic.djvu)
 
+[Hughes, R.J.M. 1984. The design and implementation of programming languages. PhD thesis, PRG-40. Programming Research Group, Oxford.](Hughes84_TheDesignAndImplementationOfProgrammingLanguages.pdf)
+
 [Joy, M.S., Rayward-Smith, V.J., and Burton, F.W. 1985. Efficient combinator code. Computer Languages. Vol. 10, no. 3/4, pp. 211-24.](joy85_EfficientCombinatorCode.pdf)
 
 Kennaway, J.R. 1982. The Complexity of a Translation of Lambda Calculus to Combinators. Department of Computer Science, University of East Anglia.
