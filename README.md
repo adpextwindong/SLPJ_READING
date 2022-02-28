@@ -234,7 +234,7 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 
 [Keller, R.M. 1985. Distributed graph reduction from first principles. Department of Computer Science, University of Utah.' Klop, J.W.1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.](Keller85_DistributedComputationByGraphReduction.pdf)
 
-Klop, J.W. 1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.
+[Klop, J.W. 1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.](Klop80_CombinatorReductionSystems.pdf)
 
 [Landin, P.J. 1964. The mechanical evaluation of expressions. Computer Journal. Vol. 6, pp. 308-20.](Landin64.pdf)
 
@@ -496,7 +496,7 @@ Tighe, S. 1985. A Study of the Parallelism Inherent in Combinator Reduction. Par
 
 [Milner, A.J. 1978. A theory of type polymorphism in programming. Journal of Computer and System Sciences. Vol. 17.](Milner78_ATheoryOfTypePolymorphismInProgramming.pdf)
 
-Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.
+[Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.](richards84_AnOverviewOfArcSASL.pdf)
 
 [Thompson, S.J. 1986. Laws in Miranda. Proceedings of the 4th ACM International Conference on LISPand Functional Programming, Boston, Mass. August.](thompson86_LawsInMiranda.pdf)
 
