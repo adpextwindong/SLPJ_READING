@@ -1,0 +1,77 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+%https://tex.stackexchange.com/a/178806
+\setlength {\marginparwidth }{2cm} 
+\usepackage{lipsum}                     % Dummytext
+\usepackage{xargs}                      % Use more than one optional parameter in a new commands
+\usepackage[pdftex,dvipsnames]{xcolor}  % Coloured text etc.
+% 
+\usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes}
+\newcommandx{\TODO}[2][1=]{\todo[linecolor=Plum,backgroundcolor=Plum!25,bordercolor=Plum,#1]{#2}}
+
+
+\title{Functional Programming}
+\author{J. Darlington}
+\date{}
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\section{INTRODUCTION}
+\TODO{TODO}
+\subsection{Foundations in Functional Languages}
+
+\section{FUNCTIONAL PROGRAMMING}
+\subsection{Introduction}
+\subsection{Data Structures}
+\TODO{Figure 5-1}
+\TODO{Figure 5-2}
+\subsection{Higher Order Functions}
+\TODO{Figure 5-3}
+\subsection{Set Expressions}
+\subsection{Qualified Expressions}
+\subsection{Typing}
+
+\section{FUNCTIONAL PROGRAMMING METHODOLOGIES}
+\subsection{The Importance of Functional Languages}
+\subsection{Specification}
+\subsection{Transformation}
+\subsection{Parallel Evaluation}
+
+\section{SEQUENTIAL IMPLEMENTATION OF FUNCTIONAL LANGUAGES}
+\subsection{Implementation via Transformation to a Sequential Language}
+\subsection{Interpretation and Source Reduction}
+\subsection{S.E.C.D. Machine Implementations}
+\subsection{Graph Reduction Implementations}
+
+\section{FUNCTIONAL LANGUAGES}
+\subsection{LISP}
+\subsection{ML}
+\subsection{HOPE}
+\subsection{SASL, KRC, Miranda}
+\subsection{FP}
+
+\section{APPLICATIONS OF FUNCTIONAL LANGUAGES}
+
+\section{FUTURE DEVELOPMENT OF FUNCTIONAL LANGUAGES}
+
+\bibliographystyle{alpha}
+\bibliography{sample}
+\listoftodos[TODOS]
+\end{document}
